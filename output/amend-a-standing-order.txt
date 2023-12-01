@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+Amend a standing order
+Find out how to amend a standing order set up by someone in your business.  You can change the amount, the date it’s paid on or how often it’s paid.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m registered for Online for Business
+
+
+
+
+Log onto Online for Business
+Select More Actions next to the account the standing order is paid from.
+Choose Direct Debits and standing orders, then Manage standing orders.
+Find the standing order you want to amend.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m registered for Commercial Banking Online
+
+
+
+You can view and cancel Standing orders in Commercial Banking Online.  You’ll need a role with the right permissions to do this.  Your administrator can do this for you by following the steps below. 
+To set up a new Standing order or change an existing one contact us directly.  To get you to the right place select Still need help below.
+How to view a Standing order
+
+ Logon to Commercial Banking Online.
+Go to Manage payments and select Standing orders.
+Enter the details for the account the Standing order is paid from and click Search.
+
+How to cancel a Standing order
+
+Logon to Commercial Banking Online. 
+Go to Manage payments and select Standing orders.
+Enter the details for the account the Standing order is paid from and click Search.
+Select the Standing order you want to cancel and click Cancel Standing order.  
+Double check the details and click Delete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to assign a Standing order role 
+                                 expandable section
+
+
+
+
+
+
+
+
+
+
+
+Logon to Commercial Banking Online and select Administration.
+Find the user you want to edit. Click the arrow next to the user in the Actions column and select Edit user. 
+Select Assign user roles from the progress bar. Make sure Payments and cash management and a role name are both selected. 
+Next select Standing orders and Direct Debits and choose which permission to add: View Standing orders or Cancel Standing orders.  When you're done, click Save and continue. 
+
+We'll send the user an email to let them know their permissions have been changed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amend a standing order form
+To get you to the right form, we just need a bit of information from you.
+
+
+
+
+
+
+
+
+
+
+
+Is your turnover over £25 million?
+
+
+
+
+
+                            No
+                        
+
+
+
+
+
+
+                            Yes
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on your answers, here’s how to amend a standing order:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complete the form below
+
+
+
+You can return the completed form to us by posting it to Lloyds Bank, Box 1, BX1 1LT
+
+
+
+
+
+Amend a standing order form (PDF, 104KB) 
+PDF opens in a new window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on your answers, here’s how to amend a standing order:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complete the form below
+
+
+
+You can return the completed form to us by either:
+emailing it to - CommercialClientServicing@Lloydsbanking.com, or
+posting it to - Lloyds Bank, Commercial Servicing, Edinburgh, BX2 1LB
+
+
+
+
+
+Amend a standing order form (PDF, 112KB) 
+PDF opens in a new window
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently asked questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can I delete a standing order in the app?
+                                 expandable section
+
+
+
+
+
+
+
+
+
+
+Yes, depending on your level of access, you can cancel standing orders set up on your accounts.
+On the account details screen, find the account the standing order is paid from and select ‘More’ and  ‘Standing orders’. Then open the standing order you want to delete and select ‘Delete’. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Still need help?
+                                 expandable section
+
+
+
+
+
+
+
+
+
+
+To get you to the right place, we just need to check a few details with you.
+Other ways to get in touch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was this helpful?
+ 
+
+
+
+
+
+
+
+Yes
+
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No
+
+
