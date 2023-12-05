@@ -1,27 +1,28 @@
-https://www.lloydsbank.com/business/help-and-support/account-management/find-iban-bic.html
 
 
 Find your IBAN and BIC
 IBAN is your International Bank Account Number. BIC is the Bank Identifier Code (also known as a SWIFT code).
 You need these to receive payments from some countries. They're used instead of your account number and sort code.
 If you're paying a person or company in the EU or EEA, or certain other countries, you'll need their IBAN and BIC.
+
 
 
 https://www.lloydsbank.com/business/help-and-support/account-management/find-iban-bic.html?WT.ac=lloyds-bb-help_support-category-acctdetails-text-find_BIC_and_IBAN
 
-
 Find your IBAN and BIC
 IBAN is your International Bank Account Number. BIC is the Bank Identifier Code (also known as a SWIFT code).
 You need these to receive payments from some countries. They're used instead of your account number and sort code.
 If you're paying a person or company in the EU or EEA, or certain other countries, you'll need their IBAN and BIC.
+
 
 
 https://www.lloydsbank.com/business/help-and-support/account-management/find-iban-bic.html?WT.ac=Lloyds-help_and_support-make_an_international_payment-inline_link-find_your_iban_or_bic
 
-
 Find your IBAN and BIC
 IBAN is your International Bank Account Number. BIC is the Bank Identifier Code (also known as a SWIFT code).
 You need these to receive payments from some countries. They're used instead of your account number and sort code.
 If you're paying a person or company in the EU or EEA, or certain other countries, you'll need their IBAN and BIC.
 
 
+
+https://www.lloydsbank.com/business/help-and-support/account-management/find-iban-bic.html

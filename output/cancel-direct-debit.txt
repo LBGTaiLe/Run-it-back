@@ -1,3 +1,215 @@
+
+
+
+
+
+
+
+Cancel a Direct Debit
+Find out how to cancel a Direct Debit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online
+
+
+
+I’m registered for Online for Business
+To cancel a Direct Debit:
+
+Log onto Online for Business.
+Select More Actions next to the account the Direct Debit is paid from.
+Choose Direct Debits and standing orders, then Manage Direct Debits.
+Find the Direct Debit you want to cancel.
+
+You should also tell the company you're paying that you are cancelling the Direct Debit.
+ 
+I’m registered for Commercial Banking Online
+You can view and cancel Direct Debits if you have a role with the right permissions. Your administrator can assign a Direct Debit role for you.
+To cancel a Direct Debit:
+
+Log on to Commercial Banking Online.
+
+Go to Manage payments and select Direct Debits.
+
+Enter the details for the account and select Search.
+
+Select the Direct Debit you want to cancel.
+
+Click Cancel Direct Debit.
+
+Follow the steps on screen to complete a security check 
+You'll find step-by-step help in the Help Centre. To get there, select the question mark at the top of any page in Commercial Banking Online.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently asked questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can I cancel a Direct Debit in the app?
+                                 expandable section
+
+
+
+
+
+
+
+
+
+
+Yes, depending on your level of access, you can cancel Direct Debits set up on your accounts.
+On the account details screen, find the account the Direct Debit is paid from and select ‘More’ and ‘Direct Debits’. Then open the Direct Debit you want to cancel and select ‘Delete’. Once it’s cancelled, you can only set it up again by contacting the company you’re paying and completing a new Direct Debit instruction.
+It’s possible the next payment will still be made even after you’ve cancelled it. This depends on when the next payment is due to be processed. You’ll see a message to let you know if this applies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Still need help?
+                                 expandable section
+
+
+
+
+
+
+
+
+
+
+To get you to the right place, we just need to check a few details with you.
+Other ways to get in touch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was this helpful?
+ 
+
+
+
+
+
+
+
+Yes
+
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No
+
+
+
 https://www.lloydsbank.com/business/help-and-support/payments/cancel-direct-debit.html
 
 
@@ -5,7 +217,6 @@ https://www.lloydsbank.com/business/help-and-support/payments/cancel-direct-debi
 
 
 
-
 Cancel a Direct Debit
 Find out how to cancel a Direct Debit.
 
@@ -208,217 +419,7 @@ No
 
 
 No
+
 
 
 https://www.lloydsbank.com/business/help-and-support/payments/cancel-direct-debit.html?WT.ac=lloyds-bb-help_support-category-regpymts-text-cancel_direct_debit
-
-
-
-
-
-
-
-Cancel a Direct Debit
-Find out how to cancel a Direct Debit.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Online
-
-
-
-I’m registered for Online for Business
-To cancel a Direct Debit:
-
-Log onto Online for Business.
-Select More Actions next to the account the Direct Debit is paid from.
-Choose Direct Debits and standing orders, then Manage Direct Debits.
-Find the Direct Debit you want to cancel.
-
-You should also tell the company you're paying that you are cancelling the Direct Debit.
- 
-I’m registered for Commercial Banking Online
-You can view and cancel Direct Debits if you have a role with the right permissions. Your administrator can assign a Direct Debit role for you.
-To cancel a Direct Debit:
-
-Log on to Commercial Banking Online.
-
-Go to Manage payments and select Direct Debits.
-
-Enter the details for the account and select Search.
-
-Select the Direct Debit you want to cancel.
-
-Click Cancel Direct Debit.
-
-Follow the steps on screen to complete a security check 
-You'll find step-by-step help in the Help Centre. To get there, select the question mark at the top of any page in Commercial Banking Online.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Frequently asked questions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Can I cancel a Direct Debit in the app?
-                                 expandable section
-
-
-
-
-
-
-
-
-
-
-Yes, depending on your level of access, you can cancel Direct Debits set up on your accounts.
-On the account details screen, find the account the Direct Debit is paid from and select ‘More’ and ‘Direct Debits’. Then open the Direct Debit you want to cancel and select ‘Delete’. Once it’s cancelled, you can only set it up again by contacting the company you’re paying and completing a new Direct Debit instruction.
-It’s possible the next payment will still be made even after you’ve cancelled it. This depends on when the next payment is due to be processed. You’ll see a message to let you know if this applies.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Still need help?
-                                 expandable section
-
-
-
-
-
-
-
-
-
-
-To get you to the right place, we just need to check a few details with you.
-Other ways to get in touch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Was this helpful?
- 
-
-
-
-
-
-
-
-Yes
-
-
-
-
-No
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-No
-
-
