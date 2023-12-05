@@ -1,3 +1,4 @@
+https://www.lloydsbank.com/business/help-and-support/online-banking/deposit-cheques-in-business-mobile-banking-app.html?WT.ac=Lloyds-help_and_support-online_banking-button_text-depositing_cheques_in_the_business_mobile_app
 
 
 
@@ -327,8 +328,8 @@ What's the maximum amount I can deposit by cheque in the app?
 
 There are two limits for cheque deposits in the app. 
 
-Single cheque limit: £5,000 
-Daily total: £5,000 
+Single cheque limit: £10,000 
+Daily total: £10,000 
 
 
 
