@@ -1,553 +1,553 @@
 
-
-
-
-
-
-
-Amend online access for an existing user
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Complete a Mandate Variation form to update who can access Online for Business, what type of access they have and, for delegates, what accounts they can see.
-Here are some of the changes you can make
-
-Upgrade to Full Access User status.
-Change to Delegate User status.
-De-register an Online for Business user.
-Update who can access your business accounts, change your mailing address and amend your signing instructions.
-
-To register a new user, you can either request this within Online for Business  or complete our online registration form.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-What are the different levels of access?
-                                What are the different levels of access? expandable section
-
-
-
-
-
-
-
-
-What are the different levels of access
-
-
-
-
-
-
-
-
-Full Access User
-
-
-
-
-Delegate User
-
-
-
-
-View Only User
-
-
-
-
-
-
-
-Full Access User
-
-View current and historic statements
-
-
-
-Delegate User
-
-✔
-
-
-
-
-View Only User
-
-✔
-
-
-
-
-✔
-
-
-
-
-
-Full Access User
-
-Check balances and view transactions
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✔
-
-
-
-
-✔
-
-
-
-
-
-Full Access User
-
-Make payments
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✔
-
-
-
-
-✖
-
-
-
-
-
-Full Access User
-
-Set or amend individual payment limits for Delegate users
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✖
-
-
-
-
-✖
-
-
-
-
-
-Full Access User
-
-Set or amend the number of users required to authorise payments (2 or 3)
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✖
-
-
-
-
-✖
-
-
-
-
-
-Full Access User
-
-Make up to 25 faster payments in Online for Business at one time 
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✖
-
-
-
-
-✖
-
-
-
-
-
-Full Access User
-
-Transfer money between your Lloyds Bank business accounts
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✔
-
-
-
-
-✖
-
-
-
-
-
-Full Access User
-
-Set up or amend / cancel most standing orders
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✔
-
-
-
-
-View only
-
-
-
-
-
-Full Access User
-
-View and cancel most Direct Debits
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✔
-
-
-
-
-View only
-
-
-
-
-
-Full Access User
-
-Print your statement or download it into other financial software
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✔
-
-
-
-
-✔
-
-
-
-
-
-Full Access User
-
-Apply for a business loan, overdraft, savings account and Business Credit Card
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✖
-
-
-
-
-✖
-
-
-
-
-
-Full Access User
-
-Request and authorise non-payment service tasks online
-
-
-
-Delegate User
-
-✔
-
-
-
-View Only User
-
-✖
-
-
-
-
-✖
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-By post
-
-
-
-Before you start you’ll need:
-
-Your UK mobile number and email address
-Business sort code and account number
-
-
-Create your request, and once completed generate a PDF form. 
-Download the completed PDF to your device and print it out.
-Collect all the required signatures and post the form to the address provided.
-
-
-
-
-Mandate Variation Request
-Mandate Variation Request
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Still need help?
-                                Still need help? expandable section
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-By phone
-
-
-
-Call us on 0345 300 0116.
-We're open 7am to 10pm Monday to Friday and from 8am to 6pm on Saturdays and Sundays.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Was this helpful?
- 
-
-
-
-
-
-
-
-Yes
-
-
-
-
-No
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-No
-
+ 
+ 
+ 
+ 
+ 
+ 
+ Amend online access for an existing user 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Complete a Mandate Variation form to update who can access Online for Business, what type of access they have and, for delegates, what accounts they can see. 
+ Here are some of the changes you can make 
+ 
+ Upgrade to Full Access User status. 
+ Change to Delegate User status. 
+ De-register an Online for Business user. 
+ Update who can access your business accounts, change your mailing address and amend your signing instructions. 
+ 
+ To register a new user, you can either request this within  Online for Business   or complete our  online registration form . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What are the different levels of access?
+                                 What are the different levels of access? expandable section 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What are the different levels of access 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ 
+ 
+ 
+ Delegate User 
+ 
+ 
+ 
+ 
+ View Only User 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ View current and historic statements 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Check balances and view transactions 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Make payments 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Set or amend individual payment limits for Delegate users 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Set or amend the number of users required to authorise payments (2 or 3) 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Make up to 25 faster payments in Online for Business at one time  
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Transfer money between your Lloyds Bank business accounts 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Set up or amend / cancel most standing orders 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ View only 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ View and cancel most Direct Debits 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ View only 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Print your statement or download it into other financial software 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ ✔ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Apply for a business loan, overdraft, savings account and Business Credit Card 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ 
+ Full Access User 
+ 
+ Request and authorise non-payment service tasks online 
+ 
+ 
+ 
+ Delegate User 
+ 
+ ✔ 
+ 
+ 
+ 
+ View Only User 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ ✖ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By post 
+ 
+ 
+ 
+ Before you start you’ll need: 
+ 
+ Your UK mobile number and email address 
+ Business sort code and account number 
+ 
+ 
+ Create your request, and once completed generate a PDF form.  
+ Download the completed PDF to your device and print it out. 
+ Collect all the required signatures and post the form to the address provided. 
+ 
+ 
+ 
+ 
+ Mandate Variation Request 
+ Mandate Variation Request 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Still need help?
+                                 Still need help? expandable section 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By phone 
+ 
+ 
+ 
+ Call us on  0345 300 0116 . 
+ We're open 7am to 10pm Monday to Friday and from 8am to 6pm on Saturdays and Sundays. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Was this helpful? 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yes 
+ 
+ 
+ 
+ 
+ No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ No 
+ 
 
 
 https://www.lloydsbank.com/business/help-and-support/online-banking/amend-online-access-existing-user.html?WT.ac=lloyds-help_support-amendO4B-category-onlbnkg-FOM-amend_O4B_access

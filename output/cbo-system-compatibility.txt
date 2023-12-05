@@ -1,168 +1,168 @@
 
-
-
-
-
-
-
-Software you should use with Commercial Banking Online
-
-
-
-
-
-
-
-
-
-
-
-
-Please check the version of the operating system and internet browser that you use.  We’ve listed the most compatible versions below.  Software providers regularly update theses with new features and security fixes.  They also stop supporting older versions over time.     
-If you don't update to newer versions, some features may not work properly and you could put your security at risk. 
-Only use 'official' versions of operating systems and browsers. These are versions issued by software providers to the public at large. We may not be able to help if you’re having issues with beta or open-source versions. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Software you should use
-
-
-
-Operating systems
-
-Windows 10 or later.
-Mac OS v11 or later.
-
-Compatible internet browsers
-
-Microsoft Edge 88 or later.
-Google Chrome 88 or later
-Firefox 85 or later
-Safari 14 or later.
-
-Optimal Best screen resolution
-1400 x 900 or higher.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Still need help?
-                                Still need help? expandable section
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-By phone
-
-
-
-Call us on 0808 202 1390.
-Lines are open 8am to 6pm Monday to Friday.
-Please have your Telephony PIN with you when you call so we can identity you.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Was this helpful?
-
-
-
-
-
-
-
-Yes
-
-
-
-
-No
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-No
-
+ 
+ 
+ 
+ 
+ 
+ 
+ Software you should use with Commercial Banking Online 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Please check the version of the operating system and internet browser that you use.  We’ve listed the most compatible versions below.  Software providers regularly update theses with new features and security fixes.  They also stop supporting older versions over time.      
+ If you don't update to newer versions, some features may not work properly and you could put your security at risk.  
+ Only use 'official' versions of operating systems and browsers. These are versions issued by software providers to the public at large. We may not be able to help if you’re having issues with beta or open-source versions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Software you should use 
+ 
+ 
+ 
+ Operating systems 
+ 
+ Windows 10 or later. 
+ Mac OS v11 or later. 
+ 
+ Compatible internet browsers 
+ 
+ Microsoft Edge 88 or later. 
+ Google Chrome 88 or later 
+ Firefox 85 or later 
+ Safari 14 or later. 
+ 
+ Optimal Best screen resolution 
+ 1400 x 900 or higher. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Still need help?
+                                 Still need help? expandable section 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By phone 
+ 
+ 
+ 
+ Call us on  0808 202 1390 . 
+ Lines are open 8am to 6pm Monday to Friday. 
+ Please have your Telephony PIN with you when you call so we can identity you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Was this helpful? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yes 
+ 
+ 
+ 
+ 
+ No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ No 
+ 
 
 
 https://www.lloydsbank.com/business/help-and-support/online-banking/cbo-system-compatibility.html
